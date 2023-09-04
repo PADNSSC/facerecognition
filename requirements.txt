@@ -1,2 +1,4 @@
 opencv-python
 face-recognition
+
+create folder knownfaces because face recognition
