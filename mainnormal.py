@@ -7,7 +7,6 @@ import datetime
 cap = cv.VideoCapture(0)
 face_model = cv.CascadeClassifier('model_face.xml')
 
-# Load known face images and encodings
 known_images = []
 known_face_encodings = []
 
